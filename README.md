@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning... How to survive ^^
 - 💞️ I’m looking to collaborate on ... CyberSecurity - Projects 
 - 📫 How to reach me ... Discord / E-Mail 
-- 😄 Pronouns:... He
 - ⚡ Fun fact: Sometimes i'm lost af    
 
 <!---
