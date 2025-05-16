@@ -20,8 +20,8 @@ Here’s a little about me:
 Here are some of the things I’ve been working on:  
 - **[Mailcow Backup Script V2](https://github.com/The1AndOni/Mailcow-BackupV2)**:  
   A Bash script for automated Mailcow backups with WebDAV/FTP support.
-- **[Mailcow Backup Script V2](https://github.com/The1AndOni/Mailcow-BackupV2)**:  
-  A Bash script for automated Mailcow backups with WebDAV/FTP support.
+- **[CodeGuardian](https://github.com/The1AndOni/CodeGuardian)**:  
+  A bot for GitHub with Discord Integration.
 
 ---
 
