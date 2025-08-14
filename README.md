@@ -23,7 +23,7 @@ Here are some of the things I’ve been working on:
 - **[CodeGuardian](https://github.com/The1AndOni/CodeGuardian)**:  
   A bot for GitHub with Discord Integration.
 - **[SiteSentinel](https://github.com/The1AndOni/SiteSentinel)**:  
-  A bot for GitHub with Discord Integration.
+  A Discord Bot, that monitors websites.
 
 ---
 
