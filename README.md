@@ -22,6 +22,8 @@ Here are some of the things I’ve been working on:
   A Bash script for automated Mailcow backups with WebDAV/FTP support.
 - **[CodeGuardian](https://github.com/The1AndOni/CodeGuardian)**:  
   A bot for GitHub with Discord Integration.
+- **[SiteSentinel](https://github.com/The1AndOni/SiteSentinel)**:  
+  A bot for GitHub with Discord Integration.
 
 ---
 
