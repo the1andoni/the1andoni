@@ -18,7 +18,7 @@ Here’s a little about me:
 
 ## 💻 My Projects  
 Here are some of the things I’ve been working on:  
-- **[Mailcow Backup Script V2](https://github.com/The1AndOni/Mailcow-Backup)**:  
+- **[Mailcow Backup Script](https://github.com/The1AndOni/Mailcow-Backup)**:  
   A Bash script for backing up mailcow data with support for WebDAV, FTP/SFTP, NAS, and S3 uploads. This project enables automated backups, encryption, and remote server uploads.
 - **[CodeGuardian](https://github.com/The1AndOni/CodeGuardian)**:  
   A bot for GitHub with Discord Integration.
