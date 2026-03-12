@@ -8,7 +8,9 @@ Here’s a little about me:
 - 🌱 **Currently Learning**: How to survive... and maybe some new tech skills along the way!  
 - 💞️ **Looking to Collaborate On**: CyberSecurity projects or anything that sparks curiosity.  
 - 📫 **Reach Me**:  
-  - Discord: *the1andonii* - E-Mail: *info@the1andonii.de* - ⚡ **Fun Fact**: Sometimes I’m so lost, even Google Maps can’t help me.  
+  - Discord: *the1andonii*
+  - - E-Mail: *info@the1andonii.de*
+- ⚡ **Fun Fact**: Sometimes I’m so lost, even Google Maps can’t help me.  
 
 ---
 
