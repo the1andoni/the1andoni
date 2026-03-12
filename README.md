@@ -9,7 +9,7 @@ Here’s a little about me:
 - 💞️ **Looking to Collaborate On**: CyberSecurity projects or anything that sparks curiosity.  
 - 📫 **Reach Me**:  
   - Discord: *the1andonii*
-  - - E-Mail: *info@the1andonii.de*
+  - E-Mail: *info@the1andonii.de*
 - ⚡ **Fun Fact**: Sometimes I’m so lost, even Google Maps can’t help me.  
 
 ---
