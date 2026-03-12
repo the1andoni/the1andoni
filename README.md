@@ -1,8 +1,6 @@
 # 👋 Hi, I’m @the1andoni  
 
-🎉 **Welcome to my GitHub profile!**  
-
-I'm a 23-year-old tech enthusiast from Bavaria, Germany 🇩🇪.  
+🎉 **Welcome to my GitHub profile!** I'm a 23-year-old tech enthusiast from Bavaria, Germany 🇩🇪.  
 Here’s a little about me:  
 
 ## 🌟 About Me  
@@ -10,9 +8,7 @@ Here’s a little about me:
 - 🌱 **Currently Learning**: How to survive... and maybe some new tech skills along the way!  
 - 💞️ **Looking to Collaborate On**: CyberSecurity projects or anything that sparks curiosity.  
 - 📫 **Reach Me**:  
-  - Discord: *the1andonii*  
-  - E-Mail: *info@the1andonii.de*  
-- ⚡ **Fun Fact**: Sometimes I’m so lost, even Google Maps can’t help me.  
+  - Discord: *the1andonii* - E-Mail: *info@the1andonii.de* - ⚡ **Fun Fact**: Sometimes I’m so lost, even Google Maps can’t help me.  
 
 ---
 
@@ -27,10 +23,15 @@ Here are some of the things I’ve been working on:
 
 ---
 
+## 📊 GitHub Stats  
+![The1Andoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=the1andoni&show_icons=true&theme=dark&hide_border=false&count_private=true)  
+
+---
+
 ## 🛠️ Tech Stack  
-- **Languages**: Bash, Python, JavaScript, HTML, CSS, JavaScript  
+- **Languages**: Bash, Python, JavaScript, HTML, CSS  
 - **Tools**: Git, Docker, GPG  
-- **Platforms**: Linux, Windows  
+- **Platforms**: Linux, Windows 
 
 ---
 
@@ -40,4 +41,4 @@ Feel free to reach out if you want to collaborate, chat, or just share memes.
 
 ---
 
-> _"A steady blade balances the soul."_ – Genji Shimada (Overwatch)  
+> _"A steady blade balances the soul."_ – Genji Shimada (Overwatch)
