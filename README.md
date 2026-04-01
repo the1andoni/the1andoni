@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @the1andoni  
 
-🎉 **Welcome to my GitHub profile!** I'm a 23-year-old tech enthusiast from Bavaria, Germany 🇩🇪.  
+🎉 **Welcome to my GitHub profile!** I'm a 24-year-old tech enthusiast from Bavaria, Germany 🇩🇪.  
 Here’s a little about me:  
 
 ## 🌟 About Me  
