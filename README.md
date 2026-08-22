@@ -26,7 +26,7 @@ Here are some of the things I’ve been working on:
 ---
 
 ## 📊 GitHub Stats  
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=the1andoni&custom_title=The1andoni%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=the1andoni&custom_title=The1andoni%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=the1andoni&custom_title=The1andoni%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=the1andoni&custom_title=The1andoni%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=github_dark)
 
 ---
 
